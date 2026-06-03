@@ -1,4 +1,4 @@
-#Programa teste GitHub
+#Programa teste GitHub para validar a igualade entre números
 #pedir ao utilizador para indicar dois números
 n1= int(input("Indique um número: "))
 n2= int(input("Indique um de novo um número: "))
