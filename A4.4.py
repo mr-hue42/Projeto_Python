@@ -1,3 +1,4 @@
+#Programa teste GitHub
 #pedir ao utilizador para indicar dois números
 n1= int(input("Indique um número: "))
 n2= int(input("Indique um de novo um número: "))
